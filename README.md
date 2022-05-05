@@ -1,1 +1,1 @@
-# Valorant-Start
+# Ideia inicial de um site relacionado a Valorant (Longo Prazo)
